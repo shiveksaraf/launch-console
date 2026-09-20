@@ -50,3 +50,6 @@ Today I joined my startup and made my first commit. Leaning toward StudySprint
 as the product — I've crammed the night before enough times to want the review
 to actually stick.
 
+What I'm most excited to build: a quiz mode that decides what to show you next
+based on what you keep getting wrong, instead of just reshuffling the deck.
+
