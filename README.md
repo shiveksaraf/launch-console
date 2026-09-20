@@ -1,7 +1,18 @@
 # launch-console
 
+![status](https://img.shields.io/badge/status-building-blue)
+![python](https://img.shields.io/badge/python-3.14-blue)
+![course](https://img.shields.io/badge/Elite%20101-Code2College-7c3aed)
+
 My Launch Console for the Code2College **Elite 101** prework — a small Python
 program that greets you, learns your name, and loops a menu until you quit.
+
+## The startup
+
+| Name | Role |
+| --- | --- |
+| Shivek Saraf | Founder |
+| *open* | *teammates TBD — the startup forms in Lesson 1* |
 
 ## Run it
 
