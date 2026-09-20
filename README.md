@@ -43,3 +43,10 @@ prework Guided Practice zone. Drafted with help from Claude (AI assistant); I
 read every line, wrote my own menu options and text, and tested it before pushing.
 
 — Shivek Saraf
+
+## Day 1 at my startup
+
+Today I joined my startup and made my first commit. Leaning toward StudySprint
+as the product — I've crammed the night before enough times to want the review
+to actually stick.
+
