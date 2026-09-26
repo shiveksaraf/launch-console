@@ -11,8 +11,7 @@ program that greets you, learns your name, and loops a menu until you quit.
 
 | Name | Role |
 | --- | --- |
-| Shivek Saraf | Founder |
-| *open* | *teammates TBD — the startup forms in Lesson 1* |
+| Shivek Saraf | Founder — solo startup, building **StudySprint** |
 
 ## Run it
 
